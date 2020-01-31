@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
             } else {
 
-                mParaLabel.setText("Place your Finger on Scanner to Access the App.");
+                mParaLabel.setText("Place your finger on Scanner to Access the App.");
 
                 generateKey();
 
